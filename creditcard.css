@@ -1,0 +1,102 @@
+.credit-card visa {
+    position: relative;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    background-color: #55bddd;
+}
+
+.img {
+    width: 100px;
+    position: relativeS;
+    object-position: right top;
+}
+<img source="visa.png" alt="visa">
+    
+
+.credit-card {
+    position: relative;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    background-color:  #rgba;
+}
+
+.credit-card {
+    position: relative;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    background-color: #ddbb55;
+}
+img {
+    width: 100px;
+    position: relativeS;
+    object-position: right top;
+    background-color: #5066e6;
+    color: black;
+}
+<img source="mastercard.jpg" alt="mastercard">
+
+.mastercard {
+    background-color: #eeeeee;
+    color: #222222;
+}
+
+.custom-bank {
+    background-color: #ddbb55;
+    color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .id-card {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #111010;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(150, 193, 211, 0.1);
+  }
+  
+  .id-card img.reduced-size {
+    width: 80px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 2px solid #3498db;
+    <img source="pic.webp" alt="pic">
+
+  }
+
+  
+  .details {
+    display: flex;
+    flex-direction: column; /* Align details vertically */
+  }
+  
+  .id-card h2 {
+    margin: 0;
+    color: #3498db;
+  }
+  
+  .id-card p {
+    margin: 5px 0;
+  }
+  
